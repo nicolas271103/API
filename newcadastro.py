@@ -1,11 +1,5 @@
-Cadastro = [
-    {
-        "id": 1,
-        "Empresa": "Cadastro"
-    },
-    {
-        "id": 9,
-        "Empresa": "Cadastro1"
-    },
-
+Cadastros = [
+    {"id": 1, "nome": "João"},
+    {"id": 2, "nome": "Maria"},
+    {"id": 3, "nome": "José"}
 ]
